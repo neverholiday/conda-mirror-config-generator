@@ -1,0 +1,13 @@
+{
+	"PackageInfo" : 
+	[ 
+		{
+			"name" : "python",
+			"version" : ""
+		},
+		{
+			"name" : "mamba",
+			"version": ""
+		} 
+	]
+}
